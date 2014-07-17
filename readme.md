@@ -1,4 +1,0 @@
-## BlastOut Framework
-
-
-### License
