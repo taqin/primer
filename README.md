@@ -1,2 +1,2 @@
-primer
+Blastout Primer
 ======
