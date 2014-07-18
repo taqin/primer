@@ -13,6 +13,7 @@
     </div>
       
     <div id="blastwall" class="container">
+    
       @foreach ($blasts as $blast)
 
       <div class="list-group">
