@@ -17,7 +17,7 @@
 		]
 	},
 	"require-dev": {
-    "way/generators": "2.*"
+    	"way/generators": "2.*"
 	},
 	"scripts": {
 		"post-install-cmd": [
