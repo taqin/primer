@@ -17,7 +17,7 @@
 		]
 	},
 	"require-dev": {
-    "way/generators": "2.*"
+    "way/generators": "dev-master"
 	},
 
 	"scripts": {
