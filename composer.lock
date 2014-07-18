@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b5c7c91084e753cd52dc0e077b59397c",
+    "hash": "e2fd3d5ee5e71875b033f8c94c7e8e00",
     "packages": [
         {
             "name": "classpreloader/classpreloader",
@@ -1648,9 +1648,7 @@
             "description": "Symfony Translation Component",
             "homepage": "http://symfony.com",
             "time": "2014-07-15 14:22:44"
-        }
-    ],
-    "packages-dev": [
+        },
         {
             "name": "way/generators",
             "version": "2.6.1",
@@ -1699,6 +1697,9 @@
             "description": "Rapidly generate resources, migrations, models, and much more.",
             "time": "2014-05-27 14:21:26"
         }
+    ],
+    "packages-dev": [
+
     ],
     "aliases": [
 

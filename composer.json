@@ -5,7 +5,7 @@
 	"license": "MIT",
 	"require": {
 		"laravel/framework": "4.2.*",
-		"way/generators": "dev-master"
+		"way/generators": "2.*"
 	},
 	"autoload": {
 		"classmap": [
@@ -16,6 +16,9 @@
 			"app/database/seeds",
 			"app/tests/TestCase.php"
 		]
+	},
+	"require-dev": {
+    	"way/generators": "2.*"
 	},
 	"scripts": {
 		"post-install-cmd": [
