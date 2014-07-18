@@ -4,7 +4,8 @@
 	"keywords": ["framework", "laravel"],
 	"license": "MIT",
 	"require": {
-		"laravel/framework": "4.2.*"
+		"laravel/framework": "4.2.*",
+		"way/generators": "dev-master"
 	},
 	"autoload": {
 		"classmap": [
@@ -16,10 +17,6 @@
 			"app/tests/TestCase.php"
 		]
 	},
-	"require-dev": {
-    "way/generators": "dev-master"
-	},
-
 	"scripts": {
 		"post-install-cmd": [
 			"php artisan clear-compiled",
